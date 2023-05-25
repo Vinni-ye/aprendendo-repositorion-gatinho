@@ -8,4 +8,5 @@
   <li>Determinei que caso a largura da tela fosse menor que 600px a imagem de baixo irá ser mudado para uma menor.</li>
   </ul>
   <h2>Mas porquê tudo isso?</h2>
-  <p>Para evitar que a página tenha uma <strong>rolagem lateral</strong>.
+  <p>Para evitar que a página tenha uma <strong>rolagem lateral</strong>.<br><br>
+ <a href="https://vinni-ye.github.io/aprendendo-responsividade-gatinho/" href="blanck">Clique aqui para acessor o projeto😺</a>
