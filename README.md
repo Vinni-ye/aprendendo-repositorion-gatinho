@@ -10,7 +10,7 @@
   <h2>Mas porquê tudo isso?</h2>
   <p>Para evitar que a página tenha uma <strong>rolagem lateral</strong>.<br><br>
   <h2>Resultado</h2>
- <a href="https://vinni-ye.github.io/aprendendo-responsividade-gatinho/" target="_blank">Clique aqui para acessor o projeto😺</a>
+ <a href="https://vinni-ye.github.io/aprendendo-responsividade-gatinho/" target="_blank">Clique aqui para acessar o projeto😺</a>
  <br><br>
  <p>Caso não esteja com vontade de ver, veja o gif abaixo demostrando o conceito aprendido:</p>
  <img src="imagens/picture-sourcer.gif" alt="gif demostrando a funcionalidade dos conceitos falados">
