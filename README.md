@@ -12,4 +12,4 @@
  <a href="https://vinni-ye.github.io/aprendendo-responsividade-gatinho/" target="_blank">Clique aqui para acessor o projeto😺</a>
  <br><br>
  <p>Caso não esteja com vontade de ver, veja o gif abaixo demostrando o conceito aprendido:</p>
- <img src= alt="gif demostrando a funcionalidade dos conceitos falados">
+ <img src="imagens/picture-sourcer.gif" alt="gif demostrando a funcionalidade dos conceitos falados">
