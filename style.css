@@ -1,0 +1,38 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+
+.cabecalho {
+    background-color: tomato;
+    padding: 10px 5px;
+}
+
+.logo{
+    display: inline-block;
+}
+
+.cabecalho nav {
+    float: right;
+}
+
+.cabecalho li {
+    display: inline-block;
+    padding: 10px;
+}
+
+main {
+    background-color: antiquewhite;
+    padding: 20px;
+    min-width: 320px;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+body{
+    background-color: azure;
+}
+
+.imagem img, header{
+    width: 100%;
+}
