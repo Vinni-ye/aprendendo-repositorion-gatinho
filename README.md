@@ -9,4 +9,4 @@
   </ul>
   <h2>Mas porquê tudo isso?</h2>
   <p>Para evitar que a página tenha uma <strong>rolagem lateral</strong>.<br><br>
- <a href="https://vinni-ye.github.io/aprendendo-responsividade-gatinho/" target="_blank">Clique aqui para acessor o projeto😺</a> (com botão direito, não sei porque não consigo usar ``target="_blank"``)
+ <a href="https://vinni-ye.github.io/aprendendo-responsividade-gatinho/" target="_blank">Clique aqui para acessor o projeto😺</a> (com botão direito, não sei porque não consigo usar ```target="_blank"```)
